@@ -1,0 +1,17 @@
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessing.Application\bin\Debug\net8.0\OrderProcessing.Application.deps.json
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessing.Application\bin\Debug\net8.0\OrderProcessing.Application.dll
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessing.Application\bin\Debug\net8.0\OrderProcessing.Application.pdb
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessing.Application\bin\Debug\net8.0\OrderProcessor.Core.dll
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessing.Application\bin\Debug\net8.0\OrderProcessor.Infrastructure.dll
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessing.Application\bin\Debug\net8.0\OrderProcessor.Core.pdb
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessing.Application\bin\Debug\net8.0\OrderProcessor.Infrastructure.pdb
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessing.Application\obj\Debug\net8.0\OrderProcessing.Application.csproj.AssemblyReference.cache
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessing.Application\obj\Debug\net8.0\OrderProcessing.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessing.Application\obj\Debug\net8.0\OrderProcessing.Application.AssemblyInfoInputs.cache
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessing.Application\obj\Debug\net8.0\OrderProcessing.Application.AssemblyInfo.cs
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessing.Application\obj\Debug\net8.0\OrderProcessing.Application.csproj.CoreCompileInputs.cache
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessing.Application\obj\Debug\net8.0\OrderPro.D38CDE08.Up2Date
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessing.Application\obj\Debug\net8.0\OrderProcessing.Application.dll
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessing.Application\obj\Debug\net8.0\refint\OrderProcessing.Application.dll
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessing.Application\obj\Debug\net8.0\OrderProcessing.Application.pdb
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessing.Application\obj\Debug\net8.0\ref\OrderProcessing.Application.dll

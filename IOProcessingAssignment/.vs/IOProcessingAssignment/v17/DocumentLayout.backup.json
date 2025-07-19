@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7685740-32B6-4E1C-B751-0BC9B149175E}|OrderProcessing.Application\\OrderProcessing.Application.csproj|d:\\ioprocessingassignment\\ioprocessingassignment\\orderprocessing.application\\helper\\fileanddirectoryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7685740-32B6-4E1C-B751-0BC9B149175E}|OrderProcessing.Application\\OrderProcessing.Application.csproj|solutionrelative:orderprocessing.application\\helper\\fileanddirectoryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF17A372-51E9-4BFF-B4DC-11E7372E68B9}|OrderTests\\OrderProcessor.Tests.csproj|d:\\ioprocessingassignment\\ioprocessingassignment\\ordertests\\tests\\orderprocessingusecasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF17A372-51E9-4BFF-B4DC-11E7372E68B9}|OrderTests\\OrderProcessor.Tests.csproj|solutionrelative:ordertests\\tests\\orderprocessingusecasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8555B4B-9BE0-491F-AC22-6AB1F1614A5B}|OrderProcessor.Infrastructure\\OrderProcessor.Infrastructure.csproj|d:\\ioprocessingassignment\\ioprocessingassignment\\orderprocessor.infrastructure\\repository\\orderprocessorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8555B4B-9BE0-491F-AC22-6AB1F1614A5B}|OrderProcessor.Infrastructure\\OrderProcessor.Infrastructure.csproj|solutionrelative:orderprocessor.infrastructure\\repository\\orderprocessorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7685740-32B6-4E1C-B751-0BC9B149175E}|OrderProcessing.Application\\OrderProcessing.Application.csproj|d:\\ioprocessingassignment\\ioprocessingassignment\\orderprocessing.application\\usecase\\orderprocessorusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7685740-32B6-4E1C-B751-0BC9B149175E}|OrderProcessing.Application\\OrderProcessing.Application.csproj|solutionrelative:orderprocessing.application\\usecase\\orderprocessorusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C16258-4BBB-4B49-A09D-9C8DD6018456}|IOProcessingAssignment\\OrderProcessor.Console.csproj|d:\\ioprocessingassignment\\ioprocessingassignment\\ioprocessingassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C16258-4BBB-4B49-A09D-9C8DD6018456}|IOProcessingAssignment\\OrderProcessor.Console.csproj|solutionrelative:ioprocessingassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF17A372-51E9-4BFF-B4DC-11E7372E68B9}|OrderTests\\OrderProcessor.Tests.csproj|d:\\ioprocessingassignment\\ioprocessingassignment\\ordertests\\helper\\logshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF17A372-51E9-4BFF-B4DC-11E7372E68B9}|OrderTests\\OrderProcessor.Tests.csproj|solutionrelative:ordertests\\helper\\logshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7685740-32B6-4E1C-B751-0BC9B149175E}|OrderProcessing.Application\\OrderProcessing.Application.csproj|d:\\ioprocessingassignment\\ioprocessingassignment\\orderprocessing.application\\interfaces\\iorderprocessorusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7685740-32B6-4E1C-B751-0BC9B149175E}|OrderProcessing.Application\\OrderProcessing.Application.csproj|solutionrelative:orderprocessing.application\\interfaces\\iorderprocessorusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28111042-5AA3-4DA7-837F-75C9A8323A75}|OrderProcessor.Core\\OrderProcessor.Core.csproj|d:\\ioprocessingassignment\\ioprocessingassignment\\orderprocessor.core\\entities\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28111042-5AA3-4DA7-837F-75C9A8323A75}|OrderProcessor.Core\\OrderProcessor.Core.csproj|solutionrelative:orderprocessor.core\\entities\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8555B4B-9BE0-491F-AC22-6AB1F1614A5B}|OrderProcessor.Infrastructure\\OrderProcessor.Infrastructure.csproj|d:\\ioprocessingassignment\\ioprocessingassignment\\orderprocessor.infrastructure\\repository\\loadconfigurationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8555B4B-9BE0-491F-AC22-6AB1F1614A5B}|OrderProcessor.Infrastructure\\OrderProcessor.Infrastructure.csproj|solutionrelative:orderprocessor.infrastructure\\repository\\loadconfigurationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28111042-5AA3-4DA7-837F-75C9A8323A75}|OrderProcessor.Core\\OrderProcessor.Core.csproj|d:\\ioprocessingassignment\\ioprocessingassignment\\orderprocessor.core\\entities\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28111042-5AA3-4DA7-837F-75C9A8323A75}|OrderProcessor.Core\\OrderProcessor.Core.csproj|solutionrelative:orderprocessor.core\\entities\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28111042-5AA3-4DA7-837F-75C9A8323A75}|OrderProcessor.Core\\OrderProcessor.Core.csproj|d:\\ioprocessingassignment\\ioprocessingassignment\\orderprocessor.core\\entities\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28111042-5AA3-4DA7-837F-75C9A8323A75}|OrderProcessor.Core\\OrderProcessor.Core.csproj|solutionrelative:orderprocessor.core\\entities\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IOProcessingAssignment\\IOProcessingAssignment\\IOProcessingAssignment\\Business\\OrderProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IOProcessingAssignment\\Business\\OrderProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Input.cs",
+              "DocumentMoniker": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\OrderProcessor.Core\\Entities\\Input.cs",
+              "RelativeDocumentMoniker": "OrderProcessor.Core\\Entities\\Input.cs",
+              "ToolTip": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\OrderProcessor.Core\\Entities\\Input.cs",
+              "RelativeToolTip": "OrderProcessor.Core\\Entities\\Input.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:36:14.453Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileAndDirectoryHelper.cs",
+              "DocumentMoniker": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\OrderProcessing.Application\\Helper\\FileAndDirectoryHelper.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Application\\Helper\\FileAndDirectoryHelper.cs",
+              "ToolTip": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\OrderProcessing.Application\\Helper\\FileAndDirectoryHelper.cs",
+              "RelativeToolTip": "OrderProcessing.Application\\Helper\\FileAndDirectoryHelper.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAnwDMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:49:20.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderProcessingUseCaseTest.cs",
+              "DocumentMoniker": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\OrderTests\\Tests\\OrderProcessingUseCaseTest.cs",
+              "RelativeDocumentMoniker": "OrderTests\\Tests\\OrderProcessingUseCaseTest.cs",
+              "ToolTip": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\OrderTests\\Tests\\OrderProcessingUseCaseTest.cs",
+              "RelativeToolTip": "OrderTests\\Tests\\OrderProcessingUseCaseTest.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwE0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T13:25:46.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderProcessorRepository.cs",
+              "DocumentMoniker": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\OrderProcessor.Infrastructure\\Repository\\OrderProcessorRepository.cs",
+              "RelativeDocumentMoniker": "OrderProcessor.Infrastructure\\Repository\\OrderProcessorRepository.cs",
+              "ToolTip": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\OrderProcessor.Infrastructure\\Repository\\OrderProcessorRepository.cs",
+              "RelativeToolTip": "OrderProcessor.Infrastructure\\Repository\\OrderProcessorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:56:31.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderProcessorUseCase.cs",
+              "DocumentMoniker": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\OrderProcessing.Application\\UseCase\\OrderProcessorUseCase.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Application\\UseCase\\OrderProcessorUseCase.cs",
+              "ToolTip": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\OrderProcessing.Application\\UseCase\\OrderProcessorUseCase.cs",
+              "RelativeToolTip": "OrderProcessing.Application\\UseCase\\OrderProcessorUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:38:27.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\IOProcessingAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "IOProcessingAssignment\\Program.cs",
+              "ToolTip": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\IOProcessingAssignment\\Program.cs",
+              "RelativeToolTip": "IOProcessingAssignment\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:35:21.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderProcessorUseCase.cs",
+              "DocumentMoniker": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\OrderProcessing.Application\\Interfaces\\IOrderProcessorUseCase.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Application\\Interfaces\\IOrderProcessorUseCase.cs",
+              "ToolTip": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\OrderProcessing.Application\\Interfaces\\IOrderProcessorUseCase.cs",
+              "RelativeToolTip": "OrderProcessing.Application\\Interfaces\\IOrderProcessorUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T07:45:49.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogsHelper.cs",
+              "DocumentMoniker": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\OrderTests\\Helper\\LogsHelper.cs",
+              "RelativeDocumentMoniker": "OrderTests\\Helper\\LogsHelper.cs",
+              "ToolTip": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\OrderTests\\Helper\\LogsHelper.cs",
+              "RelativeToolTip": "OrderTests\\Helper\\LogsHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T09:18:56.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoadConfigurationRepository.cs",
+              "DocumentMoniker": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\OrderProcessor.Infrastructure\\Repository\\LoadConfigurationRepository.cs",
+              "RelativeDocumentMoniker": "OrderProcessor.Infrastructure\\Repository\\LoadConfigurationRepository.cs",
+              "ToolTip": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\OrderProcessor.Infrastructure\\Repository\\LoadConfigurationRepository.cs",
+              "RelativeToolTip": "OrderProcessor.Infrastructure\\Repository\\LoadConfigurationRepository.cs",
+              "ViewState": "AgIAABsAAABg9zZZ4YQjwBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:43:11.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\OrderProcessor.Core\\Entities\\Configuration.cs",
+              "RelativeDocumentMoniker": "OrderProcessor.Core\\Entities\\Configuration.cs",
+              "ToolTip": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\OrderProcessor.Core\\Entities\\Configuration.cs",
+              "RelativeToolTip": "OrderProcessor.Core\\Entities\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:36:07.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderProcessor.cs",
+              "DocumentMoniker": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\IOProcessingAssignment\\Business\\OrderProcessor.cs",
+              "RelativeDocumentMoniker": "IOProcessingAssignment\\Business\\OrderProcessor.cs",
+              "ToolTip": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\IOProcessingAssignment\\Business\\OrderProcessor.cs",
+              "RelativeToolTip": "IOProcessingAssignment\\Business\\OrderProcessor.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:38:42.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Output.cs",
+              "DocumentMoniker": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\OrderProcessor.Core\\Entities\\Output.cs",
+              "RelativeDocumentMoniker": "OrderProcessor.Core\\Entities\\Output.cs",
+              "ToolTip": "D:\\IOProcessingAssignment\\IOProcessingAssignment\\OrderProcessor.Core\\Entities\\Output.cs",
+              "RelativeToolTip": "OrderProcessor.Core\\Entities\\Output.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:36:20.031Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

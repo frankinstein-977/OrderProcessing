@@ -1,0 +1,15 @@
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Infrastructure\bin\Debug\net8.0\OrderProcessor.Infrastructure.deps.json
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Infrastructure\bin\Debug\net8.0\OrderProcessor.Infrastructure.dll
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Infrastructure\bin\Debug\net8.0\OrderProcessor.Infrastructure.pdb
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Infrastructure\bin\Debug\net8.0\OrderProcessor.Core.dll
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Infrastructure\bin\Debug\net8.0\OrderProcessor.Core.pdb
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Infrastructure\obj\Debug\net8.0\OrderProcessor.Infrastructure.csproj.AssemblyReference.cache
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Infrastructure\obj\Debug\net8.0\OrderProcessor.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Infrastructure\obj\Debug\net8.0\OrderProcessor.Infrastructure.AssemblyInfoInputs.cache
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Infrastructure\obj\Debug\net8.0\OrderProcessor.Infrastructure.AssemblyInfo.cs
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Infrastructure\obj\Debug\net8.0\OrderProcessor.Infrastructure.csproj.CoreCompileInputs.cache
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Infrastructure\obj\Debug\net8.0\OrderPro.3FB42652.Up2Date
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Infrastructure\obj\Debug\net8.0\OrderProcessor.Infrastructure.dll
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Infrastructure\obj\Debug\net8.0\refint\OrderProcessor.Infrastructure.dll
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Infrastructure\obj\Debug\net8.0\OrderProcessor.Infrastructure.pdb
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Infrastructure\obj\Debug\net8.0\ref\OrderProcessor.Infrastructure.dll

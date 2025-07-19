@@ -1,0 +1,20 @@
+{
+    "Timezone": "Europe/Malta",
+    "Instruments": [
+        {
+            "InstrumentId": 123,
+            "InstrumentName": "Coal",
+            "Country": "Germany"
+        },
+        {
+            "InstrumentId": 124,
+            "InstrumentName": "Oil",
+            "Country": "USA"
+        },
+        {
+            "InstrumentId": 1,
+            "InstrumentName": "Test",
+            "Country": "Nepal"
+        }
+    ]
+}

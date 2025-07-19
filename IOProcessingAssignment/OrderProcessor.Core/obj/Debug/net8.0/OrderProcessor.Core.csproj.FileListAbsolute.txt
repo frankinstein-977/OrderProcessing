@@ -1,0 +1,12 @@
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Core\bin\Debug\net8.0\OrderProcessor.Core.deps.json
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Core\bin\Debug\net8.0\OrderProcessor.Core.dll
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Core\bin\Debug\net8.0\OrderProcessor.Core.pdb
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Core\obj\Debug\net8.0\OrderProcessor.Core.csproj.AssemblyReference.cache
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Core\obj\Debug\net8.0\OrderProcessor.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Core\obj\Debug\net8.0\OrderProcessor.Core.AssemblyInfoInputs.cache
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Core\obj\Debug\net8.0\OrderProcessor.Core.AssemblyInfo.cs
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Core\obj\Debug\net8.0\OrderProcessor.Core.csproj.CoreCompileInputs.cache
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Core\obj\Debug\net8.0\OrderProcessor.Core.dll
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Core\obj\Debug\net8.0\refint\OrderProcessor.Core.dll
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Core\obj\Debug\net8.0\OrderProcessor.Core.pdb
+D:\IOProcessingAssignment\IOProcessingAssignment\OrderProcessor.Core\obj\Debug\net8.0\ref\OrderProcessor.Core.dll
